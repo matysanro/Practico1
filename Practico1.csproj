@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="notas.txt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>notas.txt</LastGenOutput>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>notas.txt</DependentUpon>
+    </None>
+  </ItemGroup>
+
 </Project>
