@@ -14,7 +14,7 @@ namespace Practico1
 
         public void Disparar()
         {
-            Console.WriteLine($"Disparo Efectuado con {nombre}");
+            Console.WriteLine($"Disparo Efectuado con {nombre} (PIU PIUUU!!!)");
         }
         public void Recargar()
         {
