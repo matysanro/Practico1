@@ -1,4 +1,6 @@
-﻿flujo secuencial del juego
+﻿excel de tareas: https://docs.google.com/spreadsheets/d/1LzXjanx1LFGuTW8-V6GgKTEts6OJ3CkQDBuhl7rW9rk/edit?usp=sharing
+
+flujo secuencial del juego
 -------------------------------
 
 1- menú inicial RAMA
